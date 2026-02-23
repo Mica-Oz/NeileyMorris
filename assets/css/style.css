@@ -514,6 +514,16 @@ h2 {
 .name-box {
   margin-top: 30px;
 }
+.team-member-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.team-member-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
 .speaker-content {
   background-color: var(--c-brand);
   position: absolute;
